@@ -1,0 +1,2 @@
+C:\Users\bjk_4\source\repos\DetectCapsLock\bin\Release\netcoreapp3.1\publish\DetectCapsLock.pdb
+C:\Users\bjk_4\source\repos\DetectCapsLock\bin\Release\netcoreapp3.1\publish\DetectCapsLock.exe

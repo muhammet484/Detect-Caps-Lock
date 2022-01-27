@@ -1,0 +1,5 @@
+C:\Users\bjk_4\source\repos\DetectCapsLock\bin\Release\netcoreapp3.1\publish\DetectCapsLock.exe
+C:\Users\bjk_4\source\repos\DetectCapsLock\bin\Release\netcoreapp3.1\publish\DetectCapsLock.dll
+C:\Users\bjk_4\source\repos\DetectCapsLock\bin\Release\netcoreapp3.1\publish\DetectCapsLock.deps.json
+C:\Users\bjk_4\source\repos\DetectCapsLock\bin\Release\netcoreapp3.1\publish\DetectCapsLock.runtimeconfig.json
+C:\Users\bjk_4\source\repos\DetectCapsLock\bin\Release\netcoreapp3.1\publish\DetectCapsLock.pdb

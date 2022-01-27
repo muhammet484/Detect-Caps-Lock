@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iL5cTAfr8loWmazHaqbucYzt3GfpTsJoHcTxwlAnV9Gqu7A9e5eNdKwnWp14UZVR+ixDrL1Jx5l8Q9wPV0rHsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bjk_4\\source\\repos\\DetectCapsLock\\DetectCapsLock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bjk_4\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.12\\microsoft.netcore.app.runtime.win-x64.3.1.12.nupkg.sha512",
+    "C:\\Users\\bjk_4\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.12\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.12.nupkg.sha512",
+    "C:\\Users\\bjk_4\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.12\\microsoft.aspnetcore.app.runtime.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}

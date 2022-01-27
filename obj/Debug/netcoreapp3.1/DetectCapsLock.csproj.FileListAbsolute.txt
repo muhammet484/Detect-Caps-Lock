@@ -1,0 +1,16 @@
+C:\Users\bjk_4\source\repos\DetectCapsLock\bin\Debug\netcoreapp3.1\DetectCapsLock.exe
+C:\Users\bjk_4\source\repos\DetectCapsLock\bin\Debug\netcoreapp3.1\DetectCapsLock.deps.json
+C:\Users\bjk_4\source\repos\DetectCapsLock\bin\Debug\netcoreapp3.1\DetectCapsLock.runtimeconfig.json
+C:\Users\bjk_4\source\repos\DetectCapsLock\bin\Debug\netcoreapp3.1\DetectCapsLock.runtimeconfig.dev.json
+C:\Users\bjk_4\source\repos\DetectCapsLock\bin\Debug\netcoreapp3.1\DetectCapsLock.dll
+C:\Users\bjk_4\source\repos\DetectCapsLock\bin\Debug\netcoreapp3.1\DetectCapsLock.pdb
+C:\Users\bjk_4\source\repos\DetectCapsLock\obj\Debug\netcoreapp3.1\DetectCapsLock.csprojAssemblyReference.cache
+C:\Users\bjk_4\source\repos\DetectCapsLock\obj\Debug\netcoreapp3.1\DetectCapsLock.Form1.resources
+C:\Users\bjk_4\source\repos\DetectCapsLock\obj\Debug\netcoreapp3.1\DetectCapsLock.csproj.GenerateResource.cache
+C:\Users\bjk_4\source\repos\DetectCapsLock\obj\Debug\netcoreapp3.1\DetectCapsLock.AssemblyInfoInputs.cache
+C:\Users\bjk_4\source\repos\DetectCapsLock\obj\Debug\netcoreapp3.1\DetectCapsLock.AssemblyInfo.cs
+C:\Users\bjk_4\source\repos\DetectCapsLock\obj\Debug\netcoreapp3.1\DetectCapsLock.csproj.CoreCompileInputs.cache
+C:\Users\bjk_4\source\repos\DetectCapsLock\obj\Debug\netcoreapp3.1\DetectCapsLock.dll
+C:\Users\bjk_4\source\repos\DetectCapsLock\obj\Debug\netcoreapp3.1\DetectCapsLock.pdb
+C:\Users\bjk_4\source\repos\DetectCapsLock\obj\Debug\netcoreapp3.1\DetectCapsLock.genruntimeconfig.cache
+C:\Users\bjk_4\source\repos\DetectCapsLock\obj\Debug\netcoreapp3.1\DetectCapsLock.Properties.Resources.resources
