@@ -54,10 +54,6 @@ namespace DetectCapsLock
 
         }
 
-        void InitializeComponentsForMe()
-        {
-        }
-
         #endregion
         private System.Windows.Forms.ToolStripMenuItem exit;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;

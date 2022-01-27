@@ -35,7 +35,6 @@ namespace DetectCapsLock
         public Form1()
         {
             InitializeComponent();
-            InitializeComponentsForMe();
         }
 
         private void TrayIcon_Click(object sender, EventArgs e)
