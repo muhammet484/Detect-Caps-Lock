@@ -58,7 +58,6 @@ namespace DetectCapsLock
             Application.AddMessageFilter(this);
 
             controlsToMove.Add(this);
-            Manager.start();
 
             #region Set Update
             Timer UpdateTimer;
