@@ -1,5 +1,5 @@
 # DetectCapsLock
- 
+A simple C# program that shows a color if caps lock on or off
 # Screenshots
 When capslock on:
 ![ON](https://user-images.githubusercontent.com/51961772/183021507-00f921d8-854e-4cc8-8542-f9fd8d4a2f18.png)
